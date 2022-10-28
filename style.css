@@ -4,11 +4,3 @@ html, body {
   font-family: 'IM Fell DW Pica', serif;
   background: #aed9f2
 }
-
-img {
-  transition: width 2s;
-}
-
-img:hover {
-  width: 300px;
-}
